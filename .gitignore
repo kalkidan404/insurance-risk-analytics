@@ -5,3 +5,5 @@ __pycache__/
 data/raw/
 .env
 .DS_Store
+.dvc/cache/
+.dvc/tmp/
